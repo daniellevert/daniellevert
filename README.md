@@ -1,4 +1,3 @@
 # Hi, I'm Daniel!
 ### Welcome to my GitHub.
-### Take a look around 👀 to see some of the personal and group programming projects 👨‍💻🤓 I've worked on. 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+### Take a look around 👀 to see some of the personal and group programming projects 👨‍💻🤓 I've worked on.
