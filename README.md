@@ -7,8 +7,9 @@ Unfornately I cannot post many of my projects until after I graduate because the
 
 🌱 For these classes I'm refreshing my Python and Java skills as well as really diving into and formally learning SQL for the first time.
 
-## Learn more about me
+## Learn more about me...
 🔗 [LinkedIn](https://www.linkedin.com/in/daniellevert)
+
 👨‍💻 [Personal Website](https://www.daniellevert.com)
 
 Thanks for stopping by!
