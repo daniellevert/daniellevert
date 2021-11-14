@@ -1,5 +1,4 @@
-# Hi, I'm Daniel! 👋
-## Welcome to my GitHub.
+# Hi, I'm Daniel. 👋 Welcome!
 ## Take a look around 👀 to see some of the personal and group programming projects I've worked on.
 
 🔭 I'm currently working on projects for my Computer Vision I and Database Systems courses as well as my Honors College capstone.
