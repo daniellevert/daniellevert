@@ -8,8 +8,6 @@
 ⚠️ Unfornately I cannot post some of my coolest projects because they were created for my college courses and could violate academic integrity.
 
 ## Learn more about me and my other work...
-🔗 [LinkedIn](https://www.linkedin.com/in/daniellevert)
-
 👨‍💻 [Personal Website](https://www.daniellevert.com)
 
 Thanks for stopping by!
