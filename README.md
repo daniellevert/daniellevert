@@ -1,11 +1,12 @@
-# Hi, I'm Daniel. ✌️
-## Take a look around 👀 to see some of the personal and group programming projects I've worked on.
+# Hey. ✌️ I'm Daniel. 🧑🏽‍🦱
+## Take a look around to see some of the personal and group programming projects I've worked on.
 
-🔭 I'm currently working on projects for my Computer Vision I and Database Systems courses as well as my Honors College capstone.
+🎓 I recently graduated in December 2021 from The University of Illinois Chicago with a Bachelor of Science in Computer Science. 
+My last semester I worked on projects in Computer Vision and Database Systems as well as a Honors capstone that explored simplifying user interfaces by integrating AI into an existing application.
 
-🌱 For these classes I'm refreshing my Python and Java skills as well as really diving into and formally learning SQL for the first time.
+🌱 I'm currently learning and growing working as a Software Engineer at a tech company. 
 
-⚠️ Unfornately I cannot post many of my cool projects until after I graduate because they were created for my college courses and could violate academic integrity.
+⚠️ Unfornately I cannot post some of my coolest projects because they were created for my college courses and could violate academic integrity.
 
 ## Learn more about me and my other work...
 🔗 [LinkedIn](https://www.linkedin.com/in/daniellevert)
