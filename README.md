@@ -5,8 +5,6 @@
 
 🌱 I'm currently working as a Software Engineer at a tech company where I'm learning and growing. 
 
-⚠️ Unfornately I cannot post some of my coolest projects because they were created for my college courses and could violate academic integrity.
-
 ## Learn more about me and my other work...
 👨‍💻 [Personal Website](https://www.daniellevert.com)
 
