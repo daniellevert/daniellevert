@@ -3,7 +3,7 @@
 
 🎓 I graduated in December 2021 from The University of Illinois Chicago with a Bachelor of Science in Computer Science.
 
-🌱 I'm currently working as a Software Engineer at a tech company where I'm contributing to developing awesome applications and growing my skills along the way. 
+🌱 I'm currently working as a Software Engineer at a tech company where I'm contributing to developing awesome frontend applications and backend services and growing my full-stack skills along the way. 
 
 ## Learn more about me and my other work...
 👨‍💻 [Personal Website](https://www.daniellevert.com)
