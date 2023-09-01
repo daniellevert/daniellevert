@@ -1,4 +1,4 @@
-# Hey. ✌️ I'm Daniel. 🧑🏽‍🦱
+# Hey. ✌️ I'm Daniel. 🧑‍🦱
 ## Take a look around to see some of the personal and group programming projects I've worked on.
 
 🎓 I graduated in December 2021 from The University of Illinois Chicago with a Bachelor of Science in Computer Science.
